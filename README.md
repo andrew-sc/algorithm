@@ -1,1 +1,1 @@
-# algorithme
+# algorithm
